@@ -6,3 +6,4 @@
 4. to connect to remote repo, create a new repo on GitHub
 5. then git remote add origin "url from GitHub"
 6. then push by git push -u origin master
+7. update
